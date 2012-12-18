@@ -1,0 +1,17 @@
+"date.in_num_days-one" = "in {{count}} day";
+"date.in_num_hours-one" = "in {{count}} hour";
+"date.in_num_minutes-one" = "in {{count}} minute";
+"date.in_num_seconds-one" = "in {{count}} second";
+"date.num_days_ago-one" = "{{count}} day ago";
+"date.num_hours_ago-one" = "{{count}} hour ago";
+"date.num_minutes_ago-one" = "{{count}} minute ago";
+"date.num_seconds_ago-one" = "{{count}} second ago";
+"date.in_num_days-other" = "in {{count}} days";
+"date.in_num_hours-other" = "in {{count}} hours";
+"date.in_num_minutes-other" = "in {{count}} minutes";
+"date.in_num_seconds-other" = "in {{count}} seconds";
+"date.num_days_ago-other" = "{{count}} days ago";
+"date.num_hours_ago-other" = "{{count}} hours ago";
+"date.num_minutes_ago-other" = "{{count}} minutes ago";
+"date.num_seconds_ago-other" = "{{count}} seconds ago";
+
